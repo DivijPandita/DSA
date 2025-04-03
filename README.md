@@ -11,9 +11,8 @@ This is a **Library Management System** developed using **Data Structures and Al
 - **Data Persistence**: Save and load book and user records.
 
 ## Tech Stack
-- **Programming Language**: C++/Python/Java *(Mention your language)*
+- **Programming Language**: C
 - **Data Structures Used**: Binary Tree, Linked List, Queue
-- **File Handling** (if applicable)
 
 ## Installation & Setup
 1. Clone the repository:
