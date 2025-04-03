@@ -17,13 +17,13 @@ This is a **Library Management System** developed using **Data Structures and Al
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/DivijPandita/library-management-system.git
    ```
 2. Navigate to the project directory:
    ```sh
    cd library-management-system
    ```
-3. Compile and run the program *(for C++ example)*:
+3. Compile and run the program *(for C example)*:
    ```sh
    gcc main.c -o library
    ./library
