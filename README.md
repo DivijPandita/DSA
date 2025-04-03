@@ -25,7 +25,7 @@ This is a **Library Management System** developed using **Data Structures and Al
    ```
 3. Compile and run the program *(for C++ example)*:
    ```sh
-   g++ main.cpp -o library
+   gcc main.c -o library
    ./library
    ```
    *(Modify based on your programming language)*
